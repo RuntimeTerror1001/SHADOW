@@ -1,0 +1,33 @@
+[0.383s] Invoking command in '/home/redpaladin/shadow_project/ros2_ws/src/shadow_robot': PYTHONPATH=/home/redpaladin/shadow_project/ros2_ws/build/shadow_robot/prefix_override:/home/redpaladin/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/redpaladin/shadow_project/ros2_ws/install/shadow_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/shadow_robot build --build-base /home/redpaladin/shadow_project/ros2_ws/build/shadow_robot/build install --record /home/redpaladin/shadow_project/ros2_ws/build/shadow_robot/install.log --single-version-externally-managed install_data
+[0.485s] running egg_info
+[0.485s] creating ../../build/shadow_robot/shadow_robot.egg-info
+[0.485s] writing ../../build/shadow_robot/shadow_robot.egg-info/PKG-INFO
+[0.485s] writing dependency_links to ../../build/shadow_robot/shadow_robot.egg-info/dependency_links.txt
+[0.485s] writing entry points to ../../build/shadow_robot/shadow_robot.egg-info/entry_points.txt
+[0.485s] writing requirements to ../../build/shadow_robot/shadow_robot.egg-info/requires.txt
+[0.486s] writing top-level names to ../../build/shadow_robot/shadow_robot.egg-info/top_level.txt
+[0.486s] writing manifest file '../../build/shadow_robot/shadow_robot.egg-info/SOURCES.txt'
+[0.486s] reading manifest file '../../build/shadow_robot/shadow_robot.egg-info/SOURCES.txt'
+[0.487s] writing manifest file '../../build/shadow_robot/shadow_robot.egg-info/SOURCES.txt'
+[0.488s] running build
+[0.488s] running build_py
+[0.488s] creating /home/redpaladin/shadow_project/ros2_ws/build/shadow_robot/build
+[0.488s] creating /home/redpaladin/shadow_project/ros2_ws/build/shadow_robot/build/lib
+[0.488s] creating /home/redpaladin/shadow_project/ros2_ws/build/shadow_robot/build/lib/shadow_robot
+[0.488s] copying shadow_robot/__init__.py -> /home/redpaladin/shadow_project/ros2_ws/build/shadow_robot/build/lib/shadow_robot
+[0.488s] running install
+[0.488s] running install_lib
+[0.489s] creating /home/redpaladin/shadow_project/ros2_ws/install/shadow_robot/lib/python3.10/site-packages/shadow_robot
+[0.489s] copying /home/redpaladin/shadow_project/ros2_ws/build/shadow_robot/build/lib/shadow_robot/__init__.py -> /home/redpaladin/shadow_project/ros2_ws/install/shadow_robot/lib/python3.10/site-packages/shadow_robot
+[0.489s] byte-compiling /home/redpaladin/shadow_project/ros2_ws/install/shadow_robot/lib/python3.10/site-packages/shadow_robot/__init__.py to __init__.cpython-310.pyc
+[0.490s] running install_data
+[0.490s] creating /home/redpaladin/shadow_project/ros2_ws/install/shadow_robot/share/ament_index
+[0.490s] creating /home/redpaladin/shadow_project/ros2_ws/install/shadow_robot/share/ament_index/resource_index
+[0.490s] creating /home/redpaladin/shadow_project/ros2_ws/install/shadow_robot/share/ament_index/resource_index/packages
+[0.491s] copying resource/shadow_robot -> /home/redpaladin/shadow_project/ros2_ws/install/shadow_robot/share/ament_index/resource_index/packages
+[0.491s] copying package.xml -> /home/redpaladin/shadow_project/ros2_ws/install/shadow_robot/share/shadow_robot
+[0.491s] running install_egg_info
+[0.492s] Copying ../../build/shadow_robot/shadow_robot.egg-info to /home/redpaladin/shadow_project/ros2_ws/install/shadow_robot/lib/python3.10/site-packages/shadow_robot-0.0.0-py3.10.egg-info
+[0.492s] running install_scripts
+[0.502s] writing list of installed files to '/home/redpaladin/shadow_project/ros2_ws/build/shadow_robot/install.log'
+[0.513s] Invoked command in '/home/redpaladin/shadow_project/ros2_ws/src/shadow_robot' returned '0': PYTHONPATH=/home/redpaladin/shadow_project/ros2_ws/build/shadow_robot/prefix_override:/home/redpaladin/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/redpaladin/shadow_project/ros2_ws/install/shadow_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/shadow_robot build --build-base /home/redpaladin/shadow_project/ros2_ws/build/shadow_robot/build install --record /home/redpaladin/shadow_project/ros2_ws/build/shadow_robot/install.log --single-version-externally-managed install_data
